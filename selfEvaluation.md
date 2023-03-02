@@ -1,6 +1,6 @@
 # Self Evaluation
 
-- How confident do you feel in your understanding and fluency with the `for` statement?
-- This was a much more advanced concept than anything you've done in Mod 0, and the exercises required you to push yourself to apply other background knowledge or learn things outside of the curriculum - how did that feel? Did you have productive struggle? Unproductive struggle?
-- What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that?
-- What questions do you still have? How will you get the answers you need?
+- How confident do you feel in your understanding and fluency with the `for` statement? i could use more practice to smooth out my syntax!
+- This was a much more advanced concept than anything you've done in Mod 0, and the exercises required you to push yourself to apply other background knowledge or learn things outside of the curriculum - how did that feel? - challenged! Did you have productive struggle? yes! Unproductive struggle? I would get stuck searching for a way to complete a problem an let it chew up my time.
+- What do you still need to practice or learn? i need to practice typing faster and taking more notes. How will you do that? i have a typing class bookmarked at the top of my browser and i practice 15 minutes a day, i also have a notepad that i have been utilizing as an app, as well as a physical notebook. Do you need to adjust your calendar in order to do that? no
+- What questions do you still have? i still have a question about one of the practice problemsthat wants me to only display elements in an array that begin with the letter P. How will you get the answers you need? i am going to do some mor independent research on google and screenshot it for my peer to also look at.
